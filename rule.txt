@@ -1,0 +1,11 @@
+python -m venv venv
+venv\Scripts\activate
+python.exe -m pip install --upgrade pip
+pip install flask
+pip install gunicorn
+create app.py file 
+cretae templates
+create static 
+
+
+mongodb -- 127.0.0.1:27017
